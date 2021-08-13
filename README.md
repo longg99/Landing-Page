@@ -2,6 +2,9 @@
 This is a project I made in my spare time.
 This is a simple landing page of an (fictional) rental website. It is based on Spring Boot, basic HTML, CSS and JS (using Boostrap), a bit of Spring MVC. Build and run with Maven.
 
+TO GET A QUICK LOOK OF THIS PROJECT:
+https://longg99.github.io/Landing-Page-Project/
+
 TO RUN:
 - Make sure you have Maven and MySQL installed.
 - Clone the directory.
@@ -18,6 +21,9 @@ And that's it!
 
 ISSUES:
 - The SendGrid API used does not work anymore, you will need to create an account for that.
+
+TO CHANGE SENDGRID API KEY, FOLLOW THIS TUTORIAL:
+https://docs.sendgrid.com/ui/account-and-settings/api-keys
 
 NOTES:
 - I followed a tutorial to make this project; however, I alter many things in the original tutorial.
